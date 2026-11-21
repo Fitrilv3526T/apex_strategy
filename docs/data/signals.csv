@@ -1,0 +1,17 @@
+time_utc,engine,coin,action,note
+2026-11-21 16:04,supertrend_flip,BNBUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-21 16:04,supertrend_flip,XRPUSDT,ENTER_SHORT,"$30 @ 0.923300, stop 1.11034 (-20.26%, risk $6.00)"
+2026-11-21 16:04,supertrend_flip,SOLUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-21 16:04,supertrend_flip,ETHUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-21 16:04,supertrend_flip,BTCUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-21 16:04,band_walk,AVAXUSDT,ENTER_SHORT,"$28 @ 6.59000, stop 7.98392 (-21.15%, risk $6.00)"
+2026-11-21 16:04,btc_breakout_follow,BNBUSDT,ENTER_SHORT,"$44 @ 545.890, stop 621.012 (-13.76%, risk $6.00)"
+2026-11-21 16:04,btc_breakout_follow,SOLUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-21 16:04,btc_breakout_follow,ETHUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-21 16:04,btc_breakout_follow,BTCUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-21 16:04,dual_momentum,AVAXUSDT,SKIP_ENGINE_MAX,3 slots for dual_momentum
+2026-11-21 16:04,dual_momentum,LINKUSDT,SKIP_ENGINE_MAX,3 slots for dual_momentum
+2026-11-21 16:04,dual_momentum,BNBUSDT,SKIP_ENGINE_MAX,3 slots for dual_momentum
+2026-11-21 16:04,dual_momentum,SOLUSDT,ENTER_SHORT,"$42 @ 70.1500, stop 80.0927 (-14.17%, risk $6.00)"
+2026-11-21 16:04,dual_momentum,ETHUSDT,ENTER_SHORT,"$41 @ 1680.58, stop 1925.49 (-14.57%, risk $6.00)"
+2026-11-21 16:04,dual_momentum,BTCUSDT,ENTER_SHORT,"$54 @ 59862.8, stop 66512.7 (-11.11%, risk $6.00)"
