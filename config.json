@@ -1,0 +1,17 @@
+{
+  "startEquity": 1000,
+  "riskPct": 0.6,
+  "feeBpsSide": 5,
+  "spreadBpsSide": 2,
+  "impactBpsSide": 2,
+  "fundingBpsPer8h": 0,
+  "maxOpen": 8,
+  "perEngineMax": 3,
+  "maxNotionalPct": 30,
+  "grossCapX": 2.0,
+  "daySoftLossPct": -3,
+  "dayHardLossPct": -5,
+  "cooldownH": 12,
+  "minNotionalUsd": 5,
+  "telegram": true
+}
