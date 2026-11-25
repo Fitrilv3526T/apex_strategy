@@ -1,4 +1,21 @@
 time_utc,engine,coin,action,note
+2026-11-25 22:46,supertrend_flip,BNBUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,supertrend_flip,XRPUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,supertrend_flip,SOLUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,supertrend_flip,ETHUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,supertrend_flip,BTCUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,btc_breakout_follow,BNBUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,btc_breakout_follow,SOLUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,btc_breakout_follow,ETHUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,btc_breakout_follow,BTCUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,golden_cross,ADAUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,golden_cross,XRPUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,dual_momentum,AVAXUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,dual_momentum,LINKUSDT,SKIP_ENGINE_MAX,3 slots for dual_momentum
+2026-11-25 22:46,dual_momentum,BNBUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,dual_momentum,SOLUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,dual_momentum,ETHUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
+2026-11-25 22:46,dual_momentum,BTCUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
 2026-11-25 13:36,supertrend_flip,BNBUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
 2026-11-25 13:36,supertrend_flip,XRPUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
 2026-11-25 13:36,supertrend_flip,SOLUSDT,SKIP_SYMBOL_BUSY,one net position per symbol across engines
